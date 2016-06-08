@@ -23,3 +23,15 @@ pip install -r requirements.txt
 python checker.py
 ```
 と実行することで画像の枚数、顔が検出された枚数、顔の数、検出精度、実行時間が出力されます。
+
+## Thanks
+
+- [https://github.com/nagadomi/lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface)
+
+## Auther
+
+- [koluku](https://github.com/koluku)
+
+## License
+
+[MIT](LICENSE)
