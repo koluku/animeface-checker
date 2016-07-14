@@ -11,7 +11,7 @@
 ## Install
 
 ```
-git clone git@github.com:koluku/animeface_checker.git
+git clone git@github.com:koluku/animeface-checker.git
 pip install -r requirements.txt
 ```
 
